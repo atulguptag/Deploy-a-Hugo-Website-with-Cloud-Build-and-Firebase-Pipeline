@@ -38,7 +38,7 @@ cd ~/my_hugo_site
 ```cmd
 http://[EXTERNAL IP]:8080
 ```
-## *Now, press `Ctrl+C`, after you complete your second task.*
+## *Now, press `Ctrl+C`, after you complete your above task.*
 
 ### Deploy the site to Firebase
 
