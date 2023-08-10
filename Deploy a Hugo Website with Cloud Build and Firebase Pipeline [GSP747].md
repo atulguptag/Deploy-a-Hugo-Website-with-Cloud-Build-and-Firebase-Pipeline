@@ -2,6 +2,8 @@
 
 ## Lab Link - [CLICK HERE](https://www.cloudskillsboost.google/focuses/14353?parent=catalog)
 
+## [YouTube Video Solution Link](https://youtu.be/1eip39J6U-w)
+
 ## Task 1. Manual deployment
 
 * Goto *Navigation Menu* > *Compute Engine* > Click on the SSH of your instance.
